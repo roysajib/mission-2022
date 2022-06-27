@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.half-width {
+  width: 40%;
+  margin-left: 9%;
+}
+section {
+  margin-bottom: 35px;
+}
+.main-mission h1 {
+  font-size: 50px;
+  padding-left: 15px;
+  border-left: 7px solid;
+  line-height: 65px;
+  border-image: linear-gradient(tomato, tomato);
+  border-image-slice: 1;
+}
+#top-left {
+  margin-top: 140px;
+}
+.orange-color {
+  color: orange;
+}
+a {
+  text-decoration: none;
+  background-color: rgb(255, 0, 0);
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  display: inline-block;
+  margin: 15px 0px;
+}
+.half-width img {
+  width: 68%;
+}
+.top-banner {
+  display: flex;
+}
+.mission h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.mission {
+  margin-bottom: 5%;
+}
+.mission .three {
+  display: flex;
+}
+.quater-width {
+  width: 22%;
+  padding: 30px 25px;
+  border-radius: 20px;
+  margin-left: 30px;
+}
+.mission .three .quater-width img {
+  width: 45%;
+}
+.three {
+  margin-left: 180px;
+}
+.mission-1 {
+  background-color: #9ec5fe;
+}
+.vision {
+  background-color: #f1aeb5;
+}
+.goals {
+  background-color: #fecba1;
+}
+.limit-area {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  display: flex;
+  margin-left: 30px;
+  background-position: 20px 45px;
+  background-size: 200px;
+}
+.limit-area img {
+  margin-left: 105px;
+  width: 90%;
+}
+.one-third {
+  width: 30%;
+}
+.two-third {
+  margin-left: 125px;
+  width: 70%;
+}
+.two-third h1 {
+  font-size: 35px;
+}
+.two-third p {
+  padding-right: 350px;
+}
